@@ -54,15 +54,14 @@ Essa aplicação auxiliará os servidores da Central de Triagem de Belo Horizont
  ## Tecnologias utilizadas no desenvolvimento do frontend
 
 1. **Linguagens:**
-   - HTML, CSS e JavaScript: Tríade fundamental no desenvolvimento web.
+   - HTML, CSS e Typescript
 
 2. **Ambiente de Desenvolvimento:**
    - NodeJS e NPM para instalação de pacotes.
 
 3. **Framework e Bibliotecas:**
    - Vite: Ferramenta para construção de projetos frontend.
-   - ReactJS: Biblioteca JavaScript para interfaces.
-   - Typescript: Superset do JavaScript para programação robusta.
+   - ReactJS: Biblioteca JavaScript para interfaces.   
 
 4. **Estilização:**
    - Styled-components: Para estilização.
@@ -73,9 +72,6 @@ Essa aplicação auxiliará os servidores da Central de Triagem de Belo Horizont
 
 6. **Requisições HTTP:**
    - Axios: Biblioteca para realizar requisições HTTP.
-
-7. **Comunicação em Tempo Real:**
-   - WebSocket-client: Utilizado para interação em tempo real.
 
 8. **Validação de Formulários:**
    - Yup: Biblioteca para validação de formulários.
