@@ -33,6 +33,10 @@ Essa aplicação auxiliará os servidores da Central de Triagem de Belo Horizont
 
 1. Só poderá existir uma certidão por processo.
 2. Uma certidão somente poderá ser gerada se não houver alguma outra anterior vinculada.
+3. A certidão deverá conter os seguintes dados:
+   - **Cabeçalho:** Logo do TJMG, Número do processo, Órgão Julgador, Parte autora e Parte ré.
+   - **Corpo:** Itens de lista padronizada verificados pelo triador, campo livre para observações com o limite de 200 caracteres.
+   - **Rodapé:** Loca e data, assim como a matrícula do usuário responsável pela geração da certidão.
 
 **Consulta de certidões geradas**
 
