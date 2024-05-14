@@ -89,7 +89,7 @@ Essa aplicação auxiliará os servidores da Central de Triagem de Belo Horizont
    Clone este repositório para o diretório desejado em sua máquina.
 
     ```bash
-    git clone https://github.com/uailab-tjmg/central-triagem.git
+    git clone https://github.com/moisesuailab/central-triagem.git
     ```
 
 3. **Instalar Dependências:**
